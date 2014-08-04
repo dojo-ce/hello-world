@@ -6,7 +6,7 @@ Nada melhor do que compartilhar e aprender praticando ! Seguindo essa filosofia 
 
 ## Encontros
 
-Nossos encontros serão marcados com 1 semana de antecedência através de eventos criados no nosso [grupo](https://www.facebook.com/groups/1460615314210228/) do facebook. Os encontros serão feitos no primeiro sábado de cada mês pela manhã e terá duração de 3h (9h às 12h).
+Nossos encontros serão marcados com 1 semana de antecedência através de eventos criados no nosso [grupo](https://www.facebook.com/groups/dojo.ce/) do facebook. Os encontros serão feitos no primeiro sábado de cada mês pela manhã e terá duração de 3h (9h às 12h).
 
 ## Desafios
 
