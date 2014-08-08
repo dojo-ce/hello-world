@@ -2,11 +2,15 @@
 
 ## Olá, seja bem-vindo ao DojoCE!
 
-Nada melhor do que compartilhar e aprender praticando ! Seguindo essa filosofia que o DojoCE acredita poder mudar o cenário cearense de desenvolvimento através de encontros mensais para praticar o compartilhamento de conhecimento através da resolução de problemas lógicos.
+Hoje em dia, a toda hora é lançada uma nova linguagem, um novo framework, uma nova atualização etc, por conta disso dedicamos boa parte do nosso tempo desenvolvendo e esquecemos (ou simplesmente não temos tempo) de praticar nossa arma fundamental: **lógica**.
+
+Pensando nisso, o Coding Dojo foi criado para que o programador possa aprender colocando em prática seus conhecimentos para oresolver desafios de lógica propostos no dia do encontro. Vale lembrar que O dojo vai muito além do código, nele é possível melhorar o trabalho em grupo, desenvolver a socialização de cada um, aumentar seu networking, aprender novas tecnologias e vários outros benefícios !
+
+O DojoCE acredita poder mudar o cenário cearense de desenvolvimento através dessa iniciativa. Não deixe de participar dos nossos encontros !
 
 ## Encontros
 
-Nossos encontros serão marcados com 1 semana de antecedência através de eventos criados no nosso [grupo](https://www.facebook.com/groups/dojo.ce/) do facebook. Os encontros serão feitos no primeiro sábado de cada mês pela manhã e terá duração de 3h (9h às 12h).
+Nossos encontros serão marcados com 1 semana de antecedência através de eventos criados no nosso [grupo](https://www.facebook.com/groups/dojo.ce/) no facebook. Os encontros serão feitos no primeiro sábado de cada mês pela manhã e terá duração de 3h (9h às 12h).
 
 ## Desafios
 
@@ -25,3 +29,10 @@ A linguagem utilizada no dia do Dojo será discutida em comum acordo, **porém**
 5. A platéia só pode ajudar a dupla quando todos os testes estiverem validados, caso contrário, poderão apenas tirar suas dúvidas.
 6. O piloto é trocado a cada 7 minutos. Após isso, o co-piloto assume o lugar do piloto e alguém da platéia assume o lugar do co-piloto. O ciclo se repete até o fim do Dojo.
 7. O desafio completado será inserido no repositório do Dojo. Caso o desafio não seja completado, será retomado no próximo Dojo.
+
+## Dúvidas ?
+
+Se você ainda possui dúvidas do funcionamento/conceito de um dojo, acesse nosso [grupo](https://www.facebook.com/groups/dojo.ce/) no facebook para tirar dúvidas e/ou assista esses 2 vídeos e não perca o nosso próximo encontro ;)
+
+- [Conding Dojo da Globo.com](https://www.youtube.com/watch?v=vqnwQ3oVM1M)
+- [Coding Dojo: Muito além do código !](https://www.youtube.com/watch?v=RaNcCOBb3RI)
