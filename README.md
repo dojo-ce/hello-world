@@ -32,7 +32,7 @@ A linguagem utilizada no dia do Dojo será escolhida em comum acordo, porém, é
 
 ## Dúvidas ?
 
-Se você ainda possui alguma dúvida sobre o funcionamento/conceito de um dojo, acesse nosso [grupo](https://www.facebook.com/groups/dojo.ce/) no facebook para esclarecer suas dúvidas e assista esses 2 vídeos.
+Se você ainda possui alguma dúvida sobre o funcionamento/conceito de um dojo, acesse nosso [grupo](https://www.facebook.com/groups/dojo.ce/) no facebook para esclarecer suas dúvidas e assista esses 2 vídeos:
 
 - [Coding Dojo: Globo.com](https://www.youtube.com/watch?v=vqnwQ3oVM1M)
 - [Coding Dojo: Muito além do código !](https://www.youtube.com/watch?v=RaNcCOBb3RI)
