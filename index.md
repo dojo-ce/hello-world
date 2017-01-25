@@ -1,7 +1,3 @@
-<div align="center">
-	<img src="https://raw.githubusercontent.com/dojo-ce/hello-world/master/logo-dojo.jpg" alt="DojoCE" width="500">
-</div>
-
 ## Olá, seja bem-vindo ao DojoCE!
 
 [![Quantidade de dojos realizados](https://img.shields.io/badge/dojos-1-blue.svg)](https://github.com/dojo-ce/dojo)
