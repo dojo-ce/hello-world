@@ -1,0 +1,8 @@
+title: Hello-world
+description: Nada melhor do que aprender com diversão!
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
