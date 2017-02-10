@@ -20,7 +20,7 @@ OSS!
 - [Desafios](#desafios)
 - [Linguagem](#linguagem)
 - [Regras](#regras)
-- [Dúvidas?](#dúvidas)
+- [Dúvidas?](#dvidas)
 
 ## Encontros
 
