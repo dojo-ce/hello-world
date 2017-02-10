@@ -1,16 +1,16 @@
 <div align="center">
-	<img src="logo-dojo.jpg" alt="DojoCE" width="500">
+	<img src="logo-dojo.jpg" alt="DojoCE" width="450">
 </div>
 
-## Olá, seja bem-vindo ao DojoCE!
+# Olá, seja bem-vindo ao DojoCE!
 
-[![Quantidade de dojos realizados](https://img.shields.io/badge/dojos-1-blue.svg)](https://github.com/dojo-ce/dojo)
+[![Quantidade de dojos realizados](https://img.shields.io/badge/dojos-3-blue.svg)](https://github.com/dojo-ce/dojo)
 
 A rotina de um programador não é fácil. Projetos a torto e a direito no trabalho, projetos pessoais, faculdade, estudar uma nova linguagem que foi lançada (ou aquela que você separou para estudar faz tempo), testar um novo framework, testar uma nova feature etc. Agora pare um pouquinho para refletir. De uma forma geral, podemos dizer que no dia-a-dia, boa parte do nosso tempo é dedicado a aprender novas sintaxes, entender novas estruturas e criar infinitas conexões a banco de dados e loops.
 
 Lembra daqueles dias em que você estava no trabalho e surgiu um probleminha que você passou horas para resolver e no final se culpou por passar muito tempo tentando resolver algo que necessitava de uma abordagem lógica? E se eu te disser que você pode aperfeiçoar sua lógica de programação e se divertir ao mesmo tempo?
 
-Pensando nisso, o [Coding Dojo](https://pt.wikipedia.org/wiki/Coding_Dojo) foi criado para que o programador possa aprender colocando em prática seus conhecimentos para resolver desafios de lógica. Sem falar que que o Dojo vai muito além do código, pois além do desenvolvimento lógico é possível também aperfeiçoar o trabalho em equipe, desenvolver sua socialização, aumentar seu networking e aprender novas tecnologias!
+Pensando nisso, o [Coding Dojo](https://pt.wikipedia.org/wiki/Coding_Dojo) foi criado para que o programador possa aprender colocando em prática seus conhecimentos para resolver desafios lógicos. Sem falar que que o Dojo vai muito além do código, pois além do desenvolvimento lógico é possível também aperfeiçoar o trabalho em equipe, desenvolver sua socialização, aumentar seu networking e aprender novas tecnologias!
 
 Nós acreditamos poder mudar o cenário cearense de desenvolvimento através dessa iniciativa. Não deixe de participar dos nossos Dojos!
 
@@ -18,6 +18,19 @@ OSS!
 
 > “Há muitas possibilidades na mente do principiante, mas poucas na do perito.”
 > *Shunryu Suzuki*
+
+## Índice
+- [Encontros](#encontros)
+- [Desafios](#desafios)
+- [Linguagem](#linguagem)
+- [Regras](#regras)
+- [Dúvidas?](#dúvidas)
+
+## Encontros
+
+Nossos encontros ocorrerão de forma **mensal** no **último sábado** de cada mês de 9h ao 12h, e será avisado sempre através da nossa [fanpage](https://www.facebook.com/dojoce/) e do nosso [grupo do slack](https://dojoce.slack.com/). Lembrando que quem estiver no [grupo do slack](https://dojoce.slack.com/) terá acesso a informação em primeira mão.
+
+Quem tiver interesse em entrar para o [grupo do slack](https://dojoce.slack.com/), enviar um email para comunidadedojoce@gmail.com.
 
 ## Desafios
 
@@ -40,13 +53,7 @@ Utilizaremos TDD para efetuar os testes, então, é necessário que o especialis
 
 *Todo o código do desafio completado será publicado no nosso [repositório de dojos](https://github.com/dojo-ce/dojo). Caso o desafio não seja completado, será publicado da mesma forma em nosso repositório para que, quem queira, finalize através de contribuições.*
 
-## Encontros
-
-Nossos encontros ocorreram de forma **mensal** na **última sexta feira** de todo mês, e será avisado sempre através da nossa [fanpage](https://www.facebook.com/dojoce/) e do nosso [grupo do slack](https://dojoce.slack.com/). Lembrando que quem estiver no [grupo do slack](https://dojoce.slack.com/) terá acesso a informação primeiro.
-
-Quem tiver interesse em entrar para o [grupo do slack](https://dojoce.slack.com/), enviar um email para doriansampaioneto@gmail.com.
-
-## Dúvidas ?
+## Dúvidas?
 
 Se você ainda possui alguma dúvida sobre o funcionamento/conceito de um Dojo, acesse um dos nosso canais para esclarecer suas dúvidas.
 
