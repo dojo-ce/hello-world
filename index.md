@@ -32,9 +32,9 @@ Quem tiver interesse em entrar para o [grupo do slack](https://dojoce.slack.com/
 
 Nossos desafios serão **escolhidos no dia do Dojo** através dos sites listados abaixo, sugestões de desafios apresentadas no dia do Dojo ou sugestões enviadas através do nosso [grupo do slack](https://dojoce.slack.com/).
 
-- http://dojopuzzles.com/
-- http://br.spoj.com/
-- https://projecteuler.net/
+- [http://dojopuzzles.com/](http://dojopuzzles.com/)
+- [http://br.spoj.com/](http://br.spoj.com/)
+- [https://projecteuler.net/](https://projecteuler.net/)
 
 ## Linguagem
 
