@@ -1,6 +1,6 @@
-# Olá, seja bem-vindo ao DojoCE!
+# Olá, seja bem-vindo(a) ao DojoCE!
 
-[![Quantidade de dojos realizados](https://img.shields.io/badge/dojos-3-blue.svg)](https://github.com/dojo-ce/dojo)
+[![Quantidade de dojos realizados](https://img.shields.io/badge/dojos-5-blue.svg)](https://github.com/dojo-ce/dojo)
 
 A rotina de um programador não é fácil. Projetos a torto e a direito no trabalho, projetos pessoais, faculdade, estudar uma nova linguagem que foi lançada (ou aquela que você separou para estudar faz tempo), testar um novo framework, testar uma nova feature etc. Agora pare um pouquinho para refletir. De uma forma geral, podemos dizer que no dia-a-dia, boa parte do nosso tempo é dedicado a aprender novas sintaxes, entender novas estruturas e criar infinitas conexões a banco de dados e loops.
 
@@ -30,7 +30,11 @@ Quem tiver interesse em entrar para o [grupo do slack](https://dojoce.slack.com/
 
 ## Desafios
 
-Nossos desafios serão **escolhidos no dia do Dojo** através do site [Dojo Puzzles](http://dojopuzzles.com/) ou de sugestões enviadas através do nosso [grupo do slack](https://dojoce.slack.com/).
+Nossos desafios serão **escolhidos no dia do Dojo** através dos sites listados abaixo, sugestões de desafios apresentadas no dia do Dojo ou sugestões enviadas através do nosso [grupo do slack](https://dojoce.slack.com/).
+
+- http://dojopuzzles.com/
+- http://br.spoj.com/
+- https://projecteuler.net/
 
 ## Linguagem
 
